@@ -34,7 +34,7 @@ body {
 ### Links
 
 - Solution URL: https://github.com/RajvirSingh5/QR-code-component
-- Live Site URL: 
+- Live Site URL: https://practical-noyce-6d3d60.netlify.app/
 
 
 ### Built with
